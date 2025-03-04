@@ -24,10 +24,3 @@ center | centraliza o conteúdo |
 width | define a largura |
 height | define a altura |
 colspan | expande a coluna 
-
-| Exemplos de Comando |
-|-|
-<table width = "100"> | Cria uma tabela com a largura desejada
-<table height = "100"> | Cria uma tabela com a altura desejada
-<table align = "center"> | Centraliza uma tabela na página
-
