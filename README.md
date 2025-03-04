@@ -31,14 +31,3 @@ colspan | expande a coluna
 <table height = "100"> | Cria uma tabela com a altura desejada
 <table align = "center"> | Centraliza uma tabela na página
 
-### Exemplo de formulário simples:
-<form>
-    E-mail: <br>
-    <input type ="text" name ="email">
-    <br>
-    <br>
-    Assunto: <br>
-    <input type ="text" name="assunto">
-</form>
-
-
