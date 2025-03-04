@@ -6,16 +6,16 @@
 
 | Comando | Função |
 |-|-
-<table> </table> | Cria Tabelas |
-<tr> </tr> | Cria Linhas de Tabela |
-<td> </td> | Define o conteúdo da tabela |
-<ol> </ol> | Cria listas ordenadas |
-<li> </li> | Adiciona o conteúdo na lista |
-<strong></strong> | Usado para deixar o texto em **negrito**
-<em></em> | Usado para deixar o texto em *itálico*
-<form></form> | Usado para criar formulários
-<br> | Usado para pular linhas (break line), não é necessário fechar
-<hr> | Usado para adicionar uma linha horizontal
+table | Cria Tabelas |
+tr | Cria Linhas de Tabela |
+td | Define o conteúdo da tabela |
+ol | Cria listas ordenadas |
+li | Adiciona o conteúdo na lista |
+strong | Usado para deixar o texto em negrito
+em | Usado para deixar o texto em itálico
+form | Usado para criar formulários
+br | Usado para pular linhas (break line), não é necessário fechar
+hr | Usado para adicionar uma linha horizontal
 
 | Variáveis Importantes | Função |
 |-|-
